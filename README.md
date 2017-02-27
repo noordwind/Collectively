@@ -1,4 +1,4 @@
-![Collectively](https://github.com/noordwind/Collectively/assets/collectively_logo.png)
+![Collectively](https://github.com/noordwind/Collectively/blob/master/assets/collectively_logo.png)
 
 ####**Keep your commune clean in just a few clicks.**
 
