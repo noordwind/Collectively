@@ -27,7 +27,7 @@ Once executed, you shall be able to access the following services:
 |-------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------
 |API                |[http://localhost:5000](http://localhost:5000)       |[Collectively.Api](https://github.com/noordwind/Collectively.Api)
 |Mailing            |[http://localhost:10006](http://localhost:10006)     |[Collectively.Services.Mailing](https://github.com/noordwind/Collectively.Services.Mailing) 
-|Medium             |[http://localhost:11100](http://localhost:11100)     |[Collectively.Services.Medium](https://github.com/noordwind/Collectively.Services.Medium)
+|Medium             |[http://localhost:11000](http://localhost:11000)     |[Collectively.Services.Medium](https://github.com/noordwind/Collectively.Services.Medium)
 |Notifications      |[http://localhost:10005](http://localhost:10005)     |[Collectively.Services.Notifications](https://github.com/noordwind/Collectively.Services.Notifications)  
 |Operations         |[http://localhost:10001](http://localhost:10001)     |[Collectively.Services.Operations](https://github.com/noordwind/Collectively.Services.Operations) 
 |Remarks            |[http://localhost:10003](http://localhost:10003)     |[Collectively.Services.Remarks](https://github.com/noordwind/Collectively.Services.Remarks) 
