@@ -26,6 +26,7 @@ Once executed, you shall be able to access the following services:
 |Name               |URL                                                  |Repository 
 |-------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------
 |API                |[http://localhost:5000](http://localhost:5000)       |[Collectively.Api](https://github.com/noordwind/Collectively.Api)
+|Groups             |[http://localhost:10007](http://localhost:10007)     |[Collectively.Services.Groups](https://github.com/noordwind/Collectively.Services.Groups)
 |Mailing            |[http://localhost:10006](http://localhost:10006)     |[Collectively.Services.Mailing](https://github.com/noordwind/Collectively.Services.Mailing) 
 |Medium             |[http://localhost:11000](http://localhost:11000)     |[Collectively.Services.Medium](https://github.com/noordwind/Collectively.Services.Medium)
 |Notifications      |[http://localhost:10005](http://localhost:10005)     |[Collectively.Services.Notifications](https://github.com/noordwind/Collectively.Services.Notifications)  
@@ -53,6 +54,9 @@ Once executed, you shall be able to access the following services:
 |[Collectively.Messages](https://github.com/noordwind/Collectively.Messages)
 |master             |[![master branch build status](https://api.travis-ci.org/noordwind/Collectively.Messages.svg?branch=master)](https://travis-ci.org/noordwind/Collectively.Messages)
 |develop            |[![develop branch build status](https://api.travis-ci.org/noordwind/Collectively.Messages.svg?branch=develop)](https://travis-ci.org/noordwind/Collectively.Messages/branches)
+|[Collectively.Services.Groups](https://github.com/noordwind/Collectively.Services.Groups)
+|master             |[![master branch build status](https://api.travis-ci.org/noordwind/Collectively.Services.Groups.svg?branch=master)](https://travis-ci.org/noordwind/Collectively.Services.Groups)
+|develop            |[![develop branch build status](https://api.travis-ci.org/noordwind/Collectively.Services.Groups.svg?branch=develop)](https://travis-ci.org/noordwind/Collectively.Services.Groups/branches)
 |[Collectively.Services.Mailing](https://github.com/noordwind/Collectively.Services.Mailing)
 |master             |[![master branch build status](https://api.travis-ci.org/noordwind/Collectively.Services.Mailing.svg?branch=master)](https://travis-ci.org/noordwind/Collectively.Services.Mailing)
 |develop            |[![develop branch build status](https://api.travis-ci.org/noordwind/Collectively.Services.Mailing.svg?branch=develop)](https://travis-ci.org/noordwind/Collectively.Services.Mailing/branches)
