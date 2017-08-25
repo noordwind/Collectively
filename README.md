@@ -5,7 +5,7 @@
 
 **Collectively** is an open platform to enhance communication between counties and its residents​. It's made as a fully open source & cross-platform solution by [Noordwind](https://noordwind.com).
 
-Find out more at [becollective.ly](http://becollective.ly)
+Find out more at [becollective.ly](http://becollective.ly) and in our [Wiki](https://github.com/noordwind/Collectively/wiki).
 
 **Quick start**
 ----------------
